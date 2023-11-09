@@ -1,6 +1,3 @@
-<div style="text-align: center;">
-
-    <!-- Add your existing content here -->
 
     <h2>Watching</h2>
     <div align="left">
@@ -39,4 +36,3 @@
     ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
     ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-</div>
