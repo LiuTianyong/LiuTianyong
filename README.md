@@ -1,6 +1,7 @@
 <h2>Watching</h2>
 <div align="left">
 <img src="https://profile-counter.glitch.me/LiuTianyong/count.svg">
+  <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
