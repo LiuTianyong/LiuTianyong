@@ -9,5 +9,5 @@
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![Deep_Learning Badge]([https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat](https://img.shields.io/badge/Deep_Learning-red?style=flat&logo=ai)https://img.shields.io/badge/Deep_Learning-red?style=flat&logo=ai)
+![Deep_Learning Badge](https://img.shields.io/badge/Deep_Learning-41CD52?logo=Deep_Learning&logoColor=fff&style=flat)
 
