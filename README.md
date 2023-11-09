@@ -4,8 +4,9 @@
 </div>
 
 <!-- 访问数据-鸭鸭-->
-<div align="center"><img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/QR_c.gif?raw=true"width="20%"><img src="https://komarev.com/ghpvc/?username=heartyang520&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/heartyang520/heartyang520?color=black&logo=github&style=flat-square">♂
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/duck.gif?raw=true"width="20%">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LiuTianyong&amp;label=Views&amp;color=0e75b6&amp;style=flat"style="max-width: 100%;"><img src="https://badges.pufler.dev/visits/LiuTianyong/LiuTianyong?color=black&logo=github&style=flat-square">♂
+<img src="https://github.com/LiuTianyong/LiuTianyong.github.io/blob/main/share/duck.gif?raw=true"width="20%">
 </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
